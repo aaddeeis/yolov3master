@@ -39,11 +39,7 @@ python detection_demo.py
     <img width="100%" src="IMAGES/city_pred.jpg" style="max-width:100%;"></a>
 </p>
 
-## Quick training for custom mnist dataset
-mnist folder contains mnist images, create training data:
-```
-python mnist/make_data.py
-```
+
 `./yolov3/configs.py` file is already configured for mnist training.
 
 Now, you can train it and then evaluate your model
