@@ -56,15 +56,6 @@ Track training progress in Tensorboard and go to http://localhost:6006/:
     <img width="100%" src="IMAGES/tensorboard.png" style="max-width:100%;"></a>
 </p>
 
-Test detection with `detect_mnist.py` script:
-```
-python detect_mnist.py
-```
-Results:
-<p align="center">
-    <img width="40%" src="IMAGES/mnist_test.jpg" style="max-width:40%;"></a>
-</p>
-
 ## Custom YOLOv3 & YOLOv4 object detection training
 Custom training required to prepare dataset first, how to prepare dataset and train custom model you can read in following link:<br>
 https://pylessons.com/YOLOv3-TF2-custrom-train/<br>
